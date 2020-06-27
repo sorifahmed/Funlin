@@ -1,0 +1,33 @@
+@media screen and (max-width: 992px){
+button.btn.btn-primary {
+    display: none;
+}
+div#navbarNav{
+    border-top: 2px solid #1ba71b;
+    margin-left: 0px;
+}
+li.nav-item {
+    background: #fff;
+    padding: 10px 0px;
+    border-bottom: 1px solid #EEE;
+}
+ 
+} 
+@media (max-width:992px){
+.col-md-6{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.widget_content {
+    left: 28px;
+}
+}
+@media screen and (max-width: 1388px){
+.business_Bx img {
+    height: 825px;
+}
+}
+
+
+
+
